@@ -25,4 +25,4 @@ jobs:
 
       - name: Push Docker image
         run: |
-          docker push kokololo28/devops-counter-app:latest
+          docker push kokololo228/devops-counter-app:latest
