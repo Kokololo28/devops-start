@@ -21,7 +21,7 @@ jobs:
 
       - name: Build Docker image
         run: |
-          docker build -t kokololo28/devops-counter-app:latest .
+          docker build -t Kokololo28/devops-counter-app:latest .
 
       - name: Push Docker image
         run: |
